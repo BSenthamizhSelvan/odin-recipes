@@ -1,0 +1,26 @@
+img{
+    width: 500px;
+    height: auto;
+}
+
+h1{
+    color: #ee00ee;
+    text-align: center;
+}
+
+ul, ol{
+    font-size: 22px;
+}
+
+h2{
+    color: #eeaeee;
+}
+
+p{
+    font-size: 24px;
+    color: darkcyan;
+}
+
+li{
+    color: indianred;
+}

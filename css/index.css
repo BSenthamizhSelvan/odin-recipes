@@ -1,0 +1,15 @@
+*{
+    font-family: Geneva, Verdana, sans-serif;
+}
+
+h1{
+    color: violet;
+}
+
+ul{
+    font-size: 22px;
+}
+
+ul a{
+    color: grey;
+}
